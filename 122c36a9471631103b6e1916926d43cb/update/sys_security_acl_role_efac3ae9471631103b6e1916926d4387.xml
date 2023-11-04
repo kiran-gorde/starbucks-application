@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-04 10:13:02</sys_created_on>
+        <sys_id>efac3ae9471631103b6e1916926d4387</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1129750_starbuck_starbucks_drink.starbucks_user</sys_name>
+        <sys_package display_value="Starbucks Management" source="x_1129750_starbuck">122c36a9471631103b6e1916926d43cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">122c36a9471631103b6e1916926d43cb</sys_scope>
+        <sys_security_acl display_value="x_1129750_starbuck_starbucks_drink">63acbea9471631103b6e1916926d43ce</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_efac3ae9471631103b6e1916926d4387</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-04 10:13:02</sys_updated_on>
+        <sys_user_role display_value="starbucks_user" name="starbucks_user">fa953a25471631103b6e1916926d4329</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
