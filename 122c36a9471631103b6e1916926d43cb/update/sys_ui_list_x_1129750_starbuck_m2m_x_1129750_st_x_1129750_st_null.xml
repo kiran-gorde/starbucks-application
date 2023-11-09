@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1129750_starbuck_m2m_x_1129750_st_x_1129750_st" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>x_1129750_starbuck_starbucks_drink</element>
+            <list_id display_value="x_1129750_starbuck_m2m_x_1129750_st_x_1129750_st" element="NULL" name="x_1129750_starbuck_m2m_x_1129750_st_x_1129750_st" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cad115db475a71103b6e1916926d433b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-09 12:55:38</sys_created_on>
+            <sys_id>86d115db475a71103b6e1916926d433c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-09 12:55:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>size</element>
+            <list_id display_value="x_1129750_starbuck_m2m_x_1129750_st_x_1129750_st" element="NULL" name="x_1129750_starbuck_m2m_x_1129750_st_x_1129750_st" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cad115db475a71103b6e1916926d433b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-09 12:55:38</sys_created_on>
+            <sys_id>0ad115db475a71103b6e1916926d433c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-09 12:55:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>floating_point_numbers</element>
+            <list_id display_value="x_1129750_starbuck_m2m_x_1129750_st_x_1129750_st" element="NULL" name="x_1129750_starbuck_m2m_x_1129750_st_x_1129750_st" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cad115db475a71103b6e1916926d433b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-09 12:55:38</sys_created_on>
+            <sys_id>8ad115db475a71103b6e1916926d433c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-09 12:55:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>starbucks_drink_carb</element>
+            <list_id display_value="x_1129750_starbuck_m2m_x_1129750_st_x_1129750_st" element="NULL" name="x_1129750_starbuck_m2m_x_1129750_st_x_1129750_st" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cad115db475a71103b6e1916926d433b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-09 12:55:38</sys_created_on>
+            <sys_id>0ed115db475a71103b6e1916926d433c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-09 12:55:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>starbucks_drink_fat</element>
+            <list_id display_value="x_1129750_starbuck_m2m_x_1129750_st_x_1129750_st" element="NULL" name="x_1129750_starbuck_m2m_x_1129750_st_x_1129750_st" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cad115db475a71103b6e1916926d433b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-09 12:55:38</sys_created_on>
+            <sys_id>8ed115db475a71103b6e1916926d433c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-09 12:55:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>starbucks_drink_fiber</element>
+            <list_id display_value="x_1129750_starbuck_m2m_x_1129750_st_x_1129750_st" element="NULL" name="x_1129750_starbuck_m2m_x_1129750_st_x_1129750_st" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cad115db475a71103b6e1916926d433b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-09 12:55:38</sys_created_on>
+            <sys_id>02d115db475a71103b6e1916926d433d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-09 12:55:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>starbucks_drink_protein</element>
+            <list_id display_value="x_1129750_starbuck_m2m_x_1129750_st_x_1129750_st" element="NULL" name="x_1129750_starbuck_m2m_x_1129750_st_x_1129750_st" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cad115db475a71103b6e1916926d433b</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-09 12:55:38</sys_created_on>
+            <sys_id>82d115db475a71103b6e1916926d433d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-09 12:55:38</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1129750_starbuck_m2m_x_1129750_st_x_1129750_st</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-09 12:55:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cad115db475a71103b6e1916926d433b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1129750_starbuck_m2m_x_1129750_st_x_1129750_st</sys_name>
+            <sys_package display_value="Starbucks Management" source="x_1129750_starbuck">122c36a9471631103b6e1916926d43cb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Starbucks Management">122c36a9471631103b6e1916926d43cb</sys_scope>
+            <sys_update_name>sys_ui_list_x_1129750_starbuck_m2m_x_1129750_st_x_1129750_st_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-09 12:55:38</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
