@@ -10,7 +10,7 @@
         <create_access_controls>false</create_access_controls>
         <delete_access>false</delete_access>
         <is_extendable>false</is_extendable>
-        <label>x_1129750_starbuck_m2m_Starbucks_Starbucks drinks</label>
+        <label>starbuck_m2m_Starbucks_Starbucks drinks</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_1129750_starbuck_m2m_x_1129750_st_x_1129750_st</name>
         <number_ref/>
@@ -22,14 +22,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-11-09 10:31:31</sys_created_on>
         <sys_id>87d0bc5b47d671103b6e1916926d43a1</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>x_1129750_starbuck_m2m_Starbucks_Starbucks drinks</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>starbuck_m2m_Starbucks_Starbucks drinks</sys_name>
         <sys_package display_value="Starbucks Management" source="x_1129750_starbuck">122c36a9471631103b6e1916926d43cb</sys_package>
         <sys_policy/>
         <sys_scope display_value="Starbucks Management">122c36a9471631103b6e1916926d43cb</sys_scope>
         <sys_update_name>sys_db_object_87d0bc5b47d671103b6e1916926d43a1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-11-09 10:37:58</sys_updated_on>
+        <sys_updated_on>2023-11-25 06:27:42</sys_updated_on>
         <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>

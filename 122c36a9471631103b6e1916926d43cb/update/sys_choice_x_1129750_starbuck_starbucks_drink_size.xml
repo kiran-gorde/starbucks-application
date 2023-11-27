@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="size" table="x_1129750_starbuck_starbucks_drink" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>size</element>
+            <name>x_1129750_starbuck_starbucks_drink</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-20 10:56:46</sys_created_on>
+            <sys_id>7710617247a631103b6e1916926d4386</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>size</sys_name>
+            <sys_package display_value="Starbucks Management" source="x_1129750_starbuck">122c36a9471631103b6e1916926d43cb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Starbucks Management">122c36a9471631103b6e1916926d43cb</sys_scope>
+            <sys_update_name>sys_choice_x_1129750_starbuck_starbucks_drink_size</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-20 10:56:46</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gradle</label>
+            <language>en</language>
+            <name>x_1129750_starbuck_starbucks_drink</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-20 10:56:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cfff953247a631103b6e1916926d437a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-20 10:56:52</sys_updated_on>
+            <value>g</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tall</label>
+            <language>en</language>
+            <name>x_1129750_starbuck_starbucks_drink</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-20 10:57:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0020a53247a631103b6e1916926d4391</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-20 10:57:08</sys_updated_on>
+            <value>t</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>size</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Venti</label>
+            <language>en</language>
+            <name>x_1129750_starbuck_starbucks_drink</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-20 10:57:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b20617247a631103b6e1916926d438f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-20 10:57:39</sys_updated_on>
+            <value>v</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
