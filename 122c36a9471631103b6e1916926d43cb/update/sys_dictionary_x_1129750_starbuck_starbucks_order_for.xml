@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="order_for" table="x_1129750_starbuck_starbucks">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true,encode_utf8=false</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -16,7 +16,7 @@
         <column_label>Order for</column_label>
         <comments/>
         <create_roles/>
-        <default_value>javascript:gs.getUserID() </default_value>
+        <default_value>javascript:gs.getUserID()</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -54,7 +54,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-11-04 12:06:26</sys_created_on>
-        <sys_id>6c465f25479631103b6e1916926d43ab</sys_id>
         <sys_name>Order for</sys_name>
         <sys_package display_value="Starbucks Management" source="x_1129750_starbuck">122c36a9471631103b6e1916926d43cb</sys_package>
         <sys_policy/>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>starbucks drink data 2</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1129750_starbuck_starbucks_drink_data_2</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-16 11:03:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1b4b3021472631103b6e1916926d4310</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>starbucks drink data 2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Starbucks Management" source="x_1129750_starbuck">122c36a9471631103b6e1916926d43cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">122c36a9471631103b6e1916926d43cb</sys_scope>
+        <sys_update_name>sys_app_module_1b4b3021472631103b6e1916926d4310</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-16 11:03:29</sys_updated_on>
+        <timeline_page/>
+        <title>starbucks drink data 2</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Starbucks Management">122c36a9471631103b6e1916926d43cb</application>
+        <file_path/>
+        <instance_id>7ab7235a1bffe9d8c84543f4bd4bcbc9</instance_id>
+        <instance_name>dev179703</instance_name>
+        <name>sys_app_module_1b4b3021472631103b6e1916926d4310</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>starbucks drink data 2</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1129750_starbuck_starbucks_drink_data_2</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-16 11:03:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1b4b3021472631103b6e1916926d4310</sys_id><sys_mod_count>0</sys_mod_count><sys_name>starbucks drink data 2</sys_name><sys_overrides/><sys_package display_value="Starbucks Management" source="x_1129750_starbuck">122c36a9471631103b6e1916926d43cb</sys_package><sys_policy/><sys_scope display_value="Starbucks Management">122c36a9471631103b6e1916926d43cb</sys_scope><sys_update_name>sys_app_module_1b4b3021472631103b6e1916926d4310</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-16 11:03:29</sys_updated_on><timeline_page/><title>starbucks drink data 2</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-492440020</payload_hash>
+        <record_name>starbucks drink data 2</record_name>
+        <reverted_from/>
+        <source>f6c5a95f479a71103b6e1916926d4398</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-16 11:03:29</sys_created_on>
+        <sys_id>1b4b3021472631103b6e1916926d4312</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bd7ccde2f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-16 11:03:29</sys_updated_on>
+        <type>Module</type>
+        <update_guid>534b3021df2631102fb2400bc5905b12</update_guid>
+        <update_guid_history>534b3021df2631102fb2400bc5905b12:-492440020</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="starbucks drink data 2">b7800d65472631103b6e1916926d43e2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-16 11:26:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0ada812db563498cb577c6d3e18c4f64</sys_id>
+        <sys_metadata>1b4b3021472631103b6e1916926d4310</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>starbucks drink data 2</sys_name>
+        <sys_package display_value="Starbucks Management" source="x_1129750_starbuck">122c36a9471631103b6e1916926d43cb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Starbucks Management">122c36a9471631103b6e1916926d43cb</sys_scope>
+        <sys_scope_delete display_value="">17f7b917b9e04bfab6790f44495b51e4</sys_scope_delete>
+        <sys_update_name>sys_app_module_1b4b3021472631103b6e1916926d4310</sys_update_name>
+        <sys_update_version display_value="sys_app_module_1b4b3021472631103b6e1916926d4310">1b4b3021472631103b6e1916926d4312</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-16 11:26:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
